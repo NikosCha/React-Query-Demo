@@ -56,7 +56,7 @@ function App() {
 }
 ```
 
-When we configure the React Query devtools you can see the React Query logo on the left bottom of your application like this
+When we configure the React Query devtools you can see the React Query logo on the left bottom of your application.
 
 
 Devtools help us to see how the data flow happens inside the application just like redux devtools. This really helps to reduce the time in debugging the app.
